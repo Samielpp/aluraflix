@@ -11,11 +11,6 @@ header{
     color: rgb(254, 42, 68);
 }
 
-element.style {
-    background: red;
-}
-
 section {
-    display: block;
-    unicode-bidi: isolate;
+    background: red;
 }
